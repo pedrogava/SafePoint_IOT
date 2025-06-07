@@ -8,4 +8,8 @@
 
 ### Link do video:
 <a href="https://youtu.be/QUgFIGigfMg">link do video</a>
-  
+
+## Integrantes
+- Pedro Gava / RM 551043
+- Fernanda Kaory / RM 551104
+- Pedro Menezes / RM 97432
