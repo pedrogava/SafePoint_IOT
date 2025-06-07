@@ -7,4 +7,5 @@
   Foi nesse contexto que surgiu o projeto SafePoint, desenvolvido a partir da identificação de um problema recorrente em situações de desastres naturais, tragédias e emergências urbanas: a dificuldade de acesso rápido à informação, suporte psicológico e localização de recursos essenciais. Em momentos de risco, como enchentes, deslizamentos, incêndios ou eventos traumáticos, muitas pessoas não sabem para onde ir, o que fazer ou como buscar ajuda confiável. O SafePoint é um aplicativo móvel desenvolvido como uma solução integrada para conectar e engajar vítimas e moradores em tempos de crise. Ele indica pontos seguros, oferece suporte de buscae ajuda através de camera inteligente, apoio emocional e psicológico, além de fornecer informações cruciais e atualizações em tempo real. Com isso, o SafePoint contribui para salvar vidas e reconstruir a rotina das pessoas afetadas.</br>
 
 ### Link do video:
+<a href="https://youtu.be/QUgFIGigfMg">link do video</a>
   
